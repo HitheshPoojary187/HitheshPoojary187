@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [visit my porfolio](https://hithesh-portfolio.vercel.app/)
 
 - 📫 How to reach me **poojaryhithesh187@gmail.com**
 
