@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [visit my porfolio](https://hithesh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Visit my Porfolio](https://hithesh-portfolio.vercel.app/)
 
 - 📫 How to reach me **poojaryhithesh187@gmail.com**
 
-- 📄 Know about my experiences [soon](soon)
+- 📄 Know about my experiences [visit]([soon](https://hithesh-portfolio.vercel.app/))
 
-- ⚡ Fun fact **always there for your help**
+- ⚡ Fun fact **I’m training myself alongside the AI models I build—learning never stops!**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
