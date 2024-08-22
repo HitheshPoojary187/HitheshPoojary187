@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hithesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dece5f124024167.60fb03546918b.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dece5f124024167.60fb03546918b.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)">
 
 - 🔭 I’m currently working on [Tulucentre](https://github.com/HitheshPoojary187/tulucentre)
 
