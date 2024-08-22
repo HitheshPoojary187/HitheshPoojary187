@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **poojaryhithesh187@gmail.com**
 
-- 📄 Know about my experiences [visit]([soon](https://hithesh-portfolio.vercel.app/))
+- 📄 Know about my experiences [visit](https://hithesh-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I’m training myself alongside the AI models I build—learning never stops!**
 
