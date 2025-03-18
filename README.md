@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Tulucentre](https://github.com/HitheshPoojary187/tulucentre)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Express.js**
 
 - 👨‍💻 All of my projects are available at [Visit my Portfolio](https://hithesh-portfolio.vercel.app/)
 
